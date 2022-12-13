@@ -17,7 +17,8 @@ p{
 .para1{
     background-color: black;
     background-image:url('imgpro/netflix3.jpg');
-    width:100%
+    background-size:100%;
+    
 
 }
 .h1{
